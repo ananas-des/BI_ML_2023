@@ -23,7 +23,7 @@ There are **two files** in this folder. Here some discriptions of them.
 
 - [source](./source) folder contains [Linear_models.ipynb Notebook](./source/Linear_models.ipynb) with some solutions for Homework2;
 
-- [data](./data) folder with dataset on pokemons and their features   
+- [data](./data) folder with dataset on [pokemons](./data/Pokemon.csv) and their features   
 
 ### System
 
