@@ -7,7 +7,7 @@ For **Homework2** we tried to implement **Linear regression** machine learning a
 During this Homework we were dealing with:
 
 - linear regression - dataset on california housing from `sklear` package to predict house prices via their features;
-- binary classification - dataset on [pokemons](./data/Pokemons.csv) and the features to predict their Legendarity
+- binary classification - dataset on [pokemons](./data/Pokemon.csv) and the features to predict their Legendarity
 
 For models qualoty evaluation, we used metrics that are used in *regression* ($R^2$, MSE, and MAE) and *classification* (precision, recall, f1, and accuracy). Also we calculated ROC AUC score and built confusion matrix for binary classification.
 
