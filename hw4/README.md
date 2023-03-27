@@ -26,7 +26,7 @@ There are **two files** in this folder. Here some discriptions of them.
 
 - [source](./source) folder contains [Ensembles.ipynb Notebook](./source/Ensembles.ipynb) with some solutions for Homework4;
 
-- [data](./data) folder with dataset on [heart disease](./data/heart.csv) and dataset for [telecome](./data/churn.csv)customers outflow prediction
+- [data](./data) folder with dataset on [heart disease](./data/heart.csv) and dataset for [telecome](./data/churn.csv) customers outflow prediction
 
 ### System
 
