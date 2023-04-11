@@ -1,4 +1,4 @@
-# Homework5 :goberserck:
+# Homework5 :goberserk:
 
 ## kaggle Dota2 Competition
 
