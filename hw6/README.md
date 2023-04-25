@@ -1,10 +1,10 @@
 # Homework6 :izakaya_lantern:
 
-## Multiplayer perciptron
+## Multiplayer perceptron
 
-For **Homework5** we tried to build **MLP** (multiplauer perceptron) with three multiconnected layers and different activation functions and optimizators using `pytotch` Python package. For data visualization we used `matplotlib` packages.
+For **Homework5** we tried to build **MLP** (multiplauer perceptron) with three multiconnected layers and different activation functions and optimizators using `pytorch` Python package. For data visualization we used `matplotlib` packages.
 
-During this Homework we were dealing with:
+During this **Homework** we were dealing with:
 
 - multiclass classification - on [Kuzushiji-MNIST](https://github.com/rois-codh/kmnist) dataset with pictures for handwritten hieroglyphs from ten classes;
 - the data normalization impact on model;
