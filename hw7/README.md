@@ -7,7 +7,9 @@ For **Homework7** we created custom **convolution function** and tried to reprod
 During this **Homework** we were dealing with:
 
 - creating custom function for convoluting images with any mask;
-- multiclass classification - on [dataset](./data) with pictures for bean leaves of three classes: healthy, with angular leaf spot, or bean rust
+- multiclass classification - on dataset with pictures for **bean leaves** of three classes: *healthy*, with *angular leaf spot*, or *bean rust*
+
+Data with **bean leaves** images for model [training](https://storage.googleapis.com/ibeans/train.zip), [validation](https://storage.googleapis.com/ibeans/validation.zip) and [testing](https://storage.googleapis.com/ibeans/test.zip) target prediction could be downloaded via respective lins.
 
 The quality of the obtained models was evaluated using `accuracy score`.
 
@@ -22,8 +24,6 @@ There are **two files** in this folder. Here some discriptions of them.
 ### Folder
 
 - [source](./source) folder contains [hw_cnn.ipynb](./source/hw_cnn.ipynb) with some solutions for **Homework7**
-
-Data with **bean leaves** images for model [training](https://storage.googleapis.com/ibeans/train.zip), [validation](https://storage.googleapis.com/ibeans/validation.zip) and [testing](https://storage.googleapis.com/ibeans/test.zip) target prediction could be downloaded via respective link.
 
 ### System
 
