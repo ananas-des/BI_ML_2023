@@ -2,7 +2,7 @@
 
 ## kaggle Dota2 Competition
 
-Here some solutions based on `CatBoostClassifier` from `catboost` Python package for **BI_2023** [kaggle](https://www.kaggle.com/competitions/bi-ml-competition-2023/overview) **Dota2 Competition. 
+Here some solutions based on `CatBoostClassifier` from `catboost` Python package for **BI_2023** [kaggle](https://www.kaggle.com/competitions/bi-ml-competition-2023/overview) **Dota2 Competition**. 
 
 ### Files
 
