@@ -2,7 +2,7 @@
 
 ## Multiplayer perceptron
 
-For **Homework5** we tried to build **MLP** (multiplauer perceptron) with three multiconnected layers and different activation functions and optimizators using `pytorch` Python package. For data visualization we used `matplotlib` packages.
+For **Homework5** we tried to build **MLP** (multiplayer perceptron) with three multiconnected layers and different activation functions and optimizators using `torch` Python package. For data visualization we used `matplotlib` packages.
 
 During this **Homework** we were dealing with:
 
