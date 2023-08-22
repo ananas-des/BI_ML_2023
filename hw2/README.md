@@ -2,7 +2,7 @@
 
 ## Linear Regression. Gradient descend
 
-For **Homework2** we tried to implement **Linear regression** machine learning algorithms using custom fuctions for regression and binary classification, and using `sklearn` Python package. This task were coded with basic Python and `pandas` package. For data visualization, VIF and QQ-plot creation we used `matplotlib`, `seaborn`, and `statsmodels` packages.
+For **Homework2** we tried to implement **Linear regression** machine learning algorithms using custom fuctions for regression and binary classification, and using `scikit-learn` Python package. This task were coded with basic Python and `pandas` package. For data visualization, VIF and QQ-plot creation we used `matplotlib`, `seaborn`, and `statsmodels` packages.
 
 During this Homework we were dealing with:
 
