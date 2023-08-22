@@ -1,7 +1,7 @@
 # Homework4 :telephone:
 ## Ensembles
 
-For **Homework4** we tried to implement machine learning algorithms, such as **Decision Tree**, **Random Forest**, **CatBOOST** and many others, using custom fuctions for RandomForest Classification, and from `sklearn`, `xgboost`, `lightgbm`, `catboost` Python packages. This task were coded with basic Python and `pandas` package. For data visualization we used `matplotlib` and `seaborn` packages.
+For **Homework4** we tried to implement machine learning algorithms, such as **Decision Tree**, **Random Forest**, **CatBOOST** and many others, using custom fuctions for RandomForest Classification, and from `scikit-learn`, `xgboost`, `lightgbm`, `catboost` Python packages. This task were coded with basic Python and `pandas` package. For data visualization we used `matplotlib` and `seaborn` packages.
 
 During this Homework we were dealing with:
 
