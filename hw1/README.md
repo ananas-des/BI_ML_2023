@@ -2,7 +2,7 @@
 
 ## *k*-Nearest Neighbors Method
 
-For **Homework1** we tried to implement ***k*-Nearest Neighbors** machine learning algorithm using custom fuctions for classification and model metrics, and comparing their performance with respective functions from `sklearn` Python package. This task were coded with basic Python and `pandas` package. For data visualization we used `matplotlib` and `seaborn` packages.
+For **Homework1** we tried to implement ***k*-Nearest Neighbors** machine learning algorithm using custom fuctions for classification and model metrics, and comparing their performance with respective functions from `scikit-learn` Python package. This task were coded with basic Python and `pandas` package. For data visualization we used `matplotlib` and `seaborn` packages.
 
 During this Homework we were dealing with:
 
