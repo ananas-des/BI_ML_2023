@@ -2,7 +2,7 @@
 
 ## Clustering. tSNE
 
-For **Homework3** we tried to implement **Clustering** machine learning algorithms, such as **KMeans**, **Agglomerative Clustering**, and **DBSCAN**, using custom fuctions for Kmeans, and from `sklearn` Python package. This task were coded with basic Python and `pandas` package. For data visualization we used `matplotlib`, `seaborn`, and `IPython` packages.
+For **Homework3** we tried to implement **Clustering** machine learning algorithms, such as **KMeans**, **Agglomerative Clustering**, and **DBSCAN**, using custom fuctions for Kmeans, and from `scikit-learn` Python package. This task were coded with basic Python and `pandas` package. For data visualization we used `matplotlib`, `seaborn`, and `IPython` packages.
 
 During this Homework we were dealing with:
 
